@@ -1,0 +1,14 @@
+
+.segment {
+  width: 0px;
+  height: 25px;
+  background-color: lime;
+  float: left;
+}
+
+#body {
+  width: 600px;
+  height: 25px;
+  border: solid grey 5px;
+  float: left;
+}
